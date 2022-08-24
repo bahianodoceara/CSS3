@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+</head>
+<body>
+<link rel="stylesheet" href= style.css>
+	<h1 style="text-align: center;"> MICROSOFT </h1>
+
+	<p style="font-size: 20px"> <strong>Microsoft</strong> e uma empresa trasnacional de origem norte americana com sede em redmound <strong>washington</strong> (EUA) que desinvolve fabrica licencia, apoia e vende softaware de computador.</p>
+
+	<p style="text-align: center">  Entre seus produtos de software mais conhecidos estão as linhas de sistemas operacionais Windows,A Microsoft foi fundada por Bill Gates e Paul Allen em 4 de abril de 1975 para desenvolver e vender interpretadores BASIC para o Altair 8800. A empresa posteriormente iria dominar o mercado de sistemas operacionais de computadores pessoais com o MS-DOS, em meados da década de 1980, seguido pelo Microsoft Windows.</p>
+
+	<p> - A Microsoft, palavra proveniente da junção de <strong>“microscopic”</strong> e <strong>“software”</strong>
+
+</body>
+</html>
+
+
+
+PERSONALIZAÇÃO
+body{
+	background: #F0FFFF
+}
+
+p{
+	text-align: center
+}
+
+  strong {
+  	color: gray;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
