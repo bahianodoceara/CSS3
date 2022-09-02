@@ -33,13 +33,31 @@ p{
 
 
 
+<img src="meme.jpg" width="600" weight= -100y;100x>
+
+
+
+=----------=
+
+body{
+	background: #F0FFFF
+}
+
+
+#banner {
+    width: 100%;
+}
 
 
 
 
+p{
+	text-align: center
+}
 
-
-
+#missao{
+	font-size: 20px;
+}
 
 
 
